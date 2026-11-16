@@ -1,0 +1,17 @@
+button:hover {
+    background-color: #1d4ed8;
+    transform: scale(1.05);
+}
+@media (max-width: 600px) {
+    body {
+        padding: 20px;
+    }
+
+    h1 {
+        font-size: 28px;
+    }
+
+    p {
+        font-size: 16px;
+    }
+}
